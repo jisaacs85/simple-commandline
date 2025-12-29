@@ -17,7 +17,6 @@ Clone this repository:
 ```bash
 git clone https://github.com/jisaacs85/simple-commandline
 cd simple-commandline
-conda env create -f environment.yml
 ```
 
 No additional installation required - the script uses only Python's standard library.
